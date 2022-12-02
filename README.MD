@@ -5,7 +5,6 @@
 
 ## Sobre
 
-<hr/>
 
 <h2 align="center">MER Ignite</h4>
 
